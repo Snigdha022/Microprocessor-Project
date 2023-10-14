@@ -1,0 +1,9 @@
+In assignment 5, your task is to scroll (from right to left) the initials of your name and last 3 digits of your ID in the dot matrix display, show the last 3 digits of your ID in the seven segment display and glow the four LEDs according to your first name initial's alphabetical order.
+Glow Red1: 5, 26, 13, 17, 15, 4    
+Glow Red2: 8, 25, 6, 16, 14, 18, 1
+Glow Yellow: 7, 24, 9, 19, 20, 2
+Glow Green: 10, 23, 12, 21, 22, 3, 11
+For example: If your name is Abdul Kalam and ID 190104001 then you have to scroll (from right to left) 0 A 0 K 1, show 0 0 1 in the seven segment display and glow Red2.
+The output in the seven segment display will appear according to the way we write a digit. This process should be repeated 5 (Five) times and then all the output panels will be off.
+
+My name is Humaira Anzum and ID 190104031 so I have to scroll (from right to left) 0 H 3 A 1, show 0 3 1 in the seven segment display and glow Red2.
