@@ -1,0 +1,10 @@
+your task is to scroll (from right to left) the initials of first two names of your group members (4 persons so there will be 4*2=8 Letters) in the dot matrix display, show the last 2 digits of ID (total 8 digits) in the seven segment display and glow the four LEDS according to your first name initial's alphabetical order.
+Glow Red1: 1, 5, 9, 13, 17, 21, 25    
+Glow Red2: 2, 6, 10, 14, 18, 22
+Glow Yellow: 3, 7, 11, 15, 19, 23
+Glow Green: 4, 8, 12, 16, 20, 24, 26   
+For example: If the four group member's names and IDs are Abdul Kalam(190104011), Humaira Rashid (190104022),  Rafin Ahmed (190104033) and Jannatul Shifa  (190104044) then you have to scroll (from right to left) A K H R R A J S, show 1 1 2 2 3 3 4 4 in the seven segment display and glow Red1, Green, Red2, Red2 LEDs.
+The output in the seven segment display and dot matrix display will appear according to the way we write a digit. This process should be repeated 5 (Five) times and then all the output panels will be off. Also, the task has to be done for both kit and software.
+
+In my case , I have to scroll (from right to left) H A J S S P I J and show 1 1 2 2 3 3 4 4 in the seven segment display and glow  Green, Red2, Yellow, Red1 LEDs
+
